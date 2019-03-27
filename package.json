@@ -1,0 +1,27 @@
+{
+  "name": "tokocrypto_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatichuliksan/tc_test.git"
+  },
+  "author": "ftq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatichuliksan/tc_test/issues"
+  },
+  "homepage": "https://github.com/fatichuliksan/tc_test#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "crypto": "^1.0.1",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.10"
+  }
+}
